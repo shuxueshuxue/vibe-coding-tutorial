@@ -1,2 +1,3 @@
-<img width="2874" height="1788" alt="image" src="https://github.com/user-attachments/assets/dec23e64-c3c0-4238-9361-cfe525635296" />
-
+# Code is cheap
+Don't hurry to code!
+<img width="2874" height="1788" alt="image" src="https://github.com/user-attachments/assets/cd5e6709-05f4-4dc2-899f-ee9197d4beab" />
