@@ -7,3 +7,7 @@ Don't hurry to code!
 Need human guidance
 
 <img width="2874" height="1788" alt="image" src="https://github.com/user-attachments/assets/23c0ff70-18a8-42df-9f02-22dc2aea5b60" />
+
+The lower case bug
+
+<img width="2874" height="1788" alt="image" src="https://github.com/user-attachments/assets/27acbcef-cc45-421e-ba6b-b0884d9d024c" />
