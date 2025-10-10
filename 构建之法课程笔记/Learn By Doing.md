@@ -1,6 +1,7 @@
 
-1. Learn By Doing, but in LLM era
+## 1. Learn By Doing, but in LLM era
 （LLM 时代，正确的的“做中学”是怎样的？）
+
 在 [现代软件工程 习而学的软件工程教育](https://www.cnblogs.com/xinz/archive/2012/01/08/2316717.html) 中，邹欣老师提出了要进行具体能实践的，能看到结果的软件工程教育，在做中学。
 按我的理解，这是通过能持续带来反馈的“做”，来倒逼“学”，给学习以动力。
 
