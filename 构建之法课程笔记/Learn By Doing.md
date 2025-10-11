@@ -37,4 +37,4 @@
 
 我们甚至可以把测试当成开发本身，依赖各种 Code Agent 来进行测试驱动开发。
 
-<img width="1748" height="922" alt="image" src="https://github.com/user-attachments/assets/e5e305a1-4d97-4c79-840b-cdb927a3329f" />
+<img width="874" height="461" alt="image" src="https://github.com/user-attachments/assets/e5e305a1-4d97-4c79-840b-cdb927a3329f" />
