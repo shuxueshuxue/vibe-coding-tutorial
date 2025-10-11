@@ -35,6 +35,23 @@
 
 但现在有了一个有趣的悖论：我们可以用 LLM 来大规模生成"非重复性"的测试用例。它的价值在于能够以工业化的规模进行创造性破坏，发现我们从未想过要测试的场景。
 
-我们甚至可以把测试当成开发本身，依赖各种 Code Agent 来进行测试驱动开发。
+我们甚至可以把测试当成开发本身，依赖各种 Code Agent 来进行测试驱动开发。参见 [该视频](https://www.bilibili.com/video/BV13MpCzjEa3/?vd_source=ee5d436c57dcb81255f798532317c6db)
 
-<img width="874" height="461" alt="image" src="https://github.com/user-attachments/assets/e5e305a1-4d97-4c79-840b-cdb927a3329f" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/e5e305a1-4d97-4c79-840b-cdb927a3329f" />
+
+但实际应用中有很多的挑战：
+1. 我们依然需要人类工程师对测试代码本身的质量进行评估，以及和用户需求对齐
+2. 如何管理 LLM 的 context，使得测试本身不造成过大的（时间、API 费用）成本
+3. 如何对各种 ad hoc 测试的重要程度进行排序，测试完成后生成人类可读的报告
+
+## 4. 关于 AI 生成代码的绩效评估
+
+[Vibe Coding Cleanup as a Service](https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/)
+根据最新的行业报告，92% 的开发者在使用 AI 编程工具，但 AI 生成的代码带来了严重的质量问题 - 市场上已经出现了专门的"Vibe Coding Cleanup"服务，专业人员收费 $200-400/小时 来重构 AI 生成的代码。
+
+在这种环境下，如何评估程序员的真实贡献？
+
+- 一个程序员快速用 AI 生成了功能，但后期需要 $200/小时 的专家来清理
+- 另一个程序员前期慢一些，但生成的代码后续维护起来工作量小
+
+从 ROI 角度看，后者明显更有价值，但传统的短期绩效评估很难体现这一点。我们如何能量化代码的"质量"？
