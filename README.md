@@ -9,3 +9,7 @@ Real examples of effective LLM collaboration - prompting techniques, design conv
 - [Vibe-Coding Scraper Example](./vibe-coding-scraper-example/)
 - [IME-Aware Keyboard Shortcuts](./ime-aware-keyboard-shortcuts.md)
 - [构建之法课程笔记](./构建之法课程笔记/)
+
+## Further Reading
+
+- [The fate of "small" open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/) - Nolan Lawson on how LLMs are making small utility libraries obsolete, but novel/niche projects still have value
