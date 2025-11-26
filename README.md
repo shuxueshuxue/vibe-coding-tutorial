@@ -9,6 +9,7 @@ Real examples of effective LLM collaboration - prompting techniques, design conv
 - [Vibe-Coding Scraper Example](./vibe-coding-scraper-example/)
 - [IME-Aware Keyboard Shortcuts](./ime-aware-keyboard-shortcuts.md)
 - [构建之法课程笔记](./构建之法课程笔记/)
+- [Envision of the Next Generation of IDE](./Envision%20of%20next%20generation%20IDE.md)
 
 ## Further Reading
 
