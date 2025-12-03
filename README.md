@@ -17,3 +17,4 @@ Real examples of effective LLM collaboration - prompting techniques, design conv
 - [The fate of "small" open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/) - Nolan Lawson on how LLMs are making small utility libraries obsolete, but novel/niche projects still have value
 - [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)
 - [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
+- [Photo Story 项目的规划与演进](https://marchliu.github.io/2025/11/28/way-of-photo-story-project)
