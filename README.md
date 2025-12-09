@@ -18,3 +18,4 @@ Real examples of effective LLM collaboration - prompting techniques, design conv
 - [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)
 - [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 - [Photo Story 项目的规划与演进](https://marchliu.github.io/2025/11/28/way-of-photo-story-project)
+- [Verification Engineering](https://higashi.blog/2025/12/07/ai-verification/)
